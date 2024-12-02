@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "优先队列/概念.md",
+                "file": "搜索/题单.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "概念"
+              "title": "题单"
             }
           }
         ]
@@ -173,9 +173,13 @@
   },
   "active": "15599eb884158ccc",
   "lastOpenFiles": [
+    "Hot100/链表/148 排序链表.md",
+    "搜索/题单.md",
+    "Hot100/链表/138 随机链表的复制.md",
+    "剑指offer/链表/复杂链表的复制.md",
+    "Hot100/链表/23 合并K个升序链表.md",
     "优先队列/题单.md",
     "优先队列/概念.md",
-    "Hot100/链表/合并K个升序链表.md",
     "优先队列",
     "Hot100/链表/25 K个一组翻转链表.md",
     "README.md",
@@ -205,10 +209,6 @@
     "动态规划/总结.md",
     "排序/总结.md",
     "搜索/总结.md",
-    "栈&队列/总结.md",
-    "链表/总结.md",
-    "剑指offer/二叉树/总结.md",
-    "SQL/题单.md",
     "Pasted image 20241129222845.png",
     "Pasted image 20241129135641.png"
   ]

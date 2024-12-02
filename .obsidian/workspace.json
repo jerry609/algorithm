@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "36d65b9c61ee8d2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "84befa1788086ec4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15599eb884158ccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hot100/链表/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90e821b0ca1c22ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff4c1d8286ff3864",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a373bddec795b105",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "bd83ddc6be56dca4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "156515c530c0021e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d24ef8d70b9a9057",
+    "type": "split",
+    "children": [
+      {
+        "id": "0399b78d74a6b245",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9340b053f39dabf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "89a41ffb7191ccd1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "5013752095fbd90d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "519b0d3308d664bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-list",
+              "title": "README 的大纲"
+            }
+          },
+          {
+            "id": "81e7030a9d3380dd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 547.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "15599eb884158ccc",
+  "lastOpenFiles": [
+    "README.md",
+    "Hot100/链表/未命名.md",
+    "二叉树/总结.md",
+    "Hot100/二叉树/二叉搜索树/98 验证二叉搜索树.md",
+    "剑指offer/二叉树/二叉树的镜像.md",
+    "Hot100/二叉树/101 对称二叉树.md",
+    "剑指offer/二叉树/二叉搜索树与双向链表.md",
+    "剑指offer/二叉树/在二叉树中找到两个节点的最近公共祖先.md",
+    "剑指offer/二叉树/二叉搜索树的后续遍历.md",
+    "剑指offer/二叉树/二叉搜索树的最近公共祖先.md",
+    "字节.md",
+    "use.md",
+    "pom.xml",
+    "kv-thrift/src/main/java/com/kv/thrift/KVService.thrift",
+    "kv-thrift/src/main/java/com/kv/thrift/kv.thrift",
+    "kv-thrift/src/main/java/com/kv/thrift",
+    "kv-thrift/src/main/java/com/kv",
+    "kv-thrift/src/main/java/com",
+    "kv-thrift/src/main/java",
+    "kv-thrift/src/main",
+    "kv-thrift/pom.xml",
+    "kv-thrift/src",
+    "Hot100/二叉树/二叉树的属性/543 二叉树的直径.md",
+    "剑指offer/二叉树/二叉搜索树的第k个节点.md",
+    "剑指offer/二叉树/二叉树的深度.md",
+    "搜索/二分查找.md",
+    "动态规划/总结.md",
+    "排序/总结.md",
+    "搜索/总结.md",
+    "栈&队列/总结.md",
+    "链表/总结.md",
+    "剑指offer/二叉树/总结.md",
+    "SQL/题单.md",
+    "Hot100/二叉树/二叉树的属性/111 二叉树的最小深度.md",
+    "Hot100/二叉树/二叉树的属性/104 二叉树的最大深度.md",
+    "剑指offer/链表/复杂链表的复制.md",
+    "Pasted image 20241129222845.png",
+    "Pasted image 20241129135641.png"
+  ]
+}

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "二叉树/总结.md",
+                "file": "剑指offer/二叉树/从上往下打印二叉树.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "总结"
+              "title": "从上往下打印二叉树"
             }
           }
         ]
@@ -171,8 +171,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a373bddec795b105",
+  "active": "15599eb884158ccc",
   "lastOpenFiles": [
+    "二叉树/总结.md",
+    "剑指offer/二叉树/从上往下打印二叉树.md",
     "Hot100/二叉树/二叉树的属性/437 路径总和 III.md",
     "回溯/总结.md",
     "剑指offer/二叉树/二叉树和为某一值的路径(3)（复习）.md",
@@ -198,10 +200,8 @@
     "优先队列",
     "Hot100/链表/25 K个一组翻转链表.md",
     "README.md",
-    "二叉树/总结.md",
     "Hot100/二叉树/二叉搜索树/98 验证二叉搜索树.md",
     "剑指offer/二叉树/二叉树的镜像.md",
-    "Hot100/二叉树/101 对称二叉树.md",
     "pom.xml",
     "kv-thrift/src/main/java/com/kv/thrift/KVService.thrift",
     "kv-thrift/src/main/java/com/kv/thrift/kv.thrift",

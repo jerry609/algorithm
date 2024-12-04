@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "剑指offer/二叉树/重建二叉树.md",
+                "file": "二叉树/总结.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "重建二叉树"
+              "title": "总结"
             }
           }
         ]
@@ -171,10 +171,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "15599eb884158ccc",
+  "active": "a373bddec795b105",
   "lastOpenFiles": [
-    "优先队列/题单.md",
+    "Hot100/二叉树/二叉树的属性/437 路径总和 III.md",
+    "回溯/总结.md",
+    "剑指offer/二叉树/二叉树和为某一值的路径(3)（复习）.md",
+    "回溯",
+    "前缀和/总结.md",
+    "剑指offer/二叉树/把二叉树打印成多行.md",
+    "前缀和",
+    "剑指offer/二叉树/树的结构（复习）.md",
+    "剑指offer/二叉树/二叉树的下一个节点（复习）.md",
+    "剑指offer/二叉树/二叉搜索树的最近公共祖先.md",
     "剑指offer/二叉树/重建二叉树.md",
+    "优先队列/题单.md",
     "优先队列/概念.md",
     "剑指offer/链表/链表中环的入口.md",
     "剑指offer/链表/复杂链表的复制.md",
@@ -192,12 +202,6 @@
     "Hot100/二叉树/二叉搜索树/98 验证二叉搜索树.md",
     "剑指offer/二叉树/二叉树的镜像.md",
     "Hot100/二叉树/101 对称二叉树.md",
-    "剑指offer/二叉树/二叉搜索树与双向链表.md",
-    "剑指offer/二叉树/在二叉树中找到两个节点的最近公共祖先.md",
-    "剑指offer/二叉树/二叉搜索树的后续遍历.md",
-    "剑指offer/二叉树/二叉搜索树的最近公共祖先.md",
-    "字节.md",
-    "use.md",
     "pom.xml",
     "kv-thrift/src/main/java/com/kv/thrift/KVService.thrift",
     "kv-thrift/src/main/java/com/kv/thrift/kv.thrift",
@@ -205,10 +209,6 @@
     "kv-thrift/src/main/java/com/kv",
     "kv-thrift/src/main/java/com",
     "kv-thrift/src/main/java",
-    "kv-thrift/src/main",
-    "kv-thrift/pom.xml",
-    "Hot100/二叉树/二叉树的属性/543 二叉树的直径.md",
-    "剑指offer/二叉树/二叉搜索树的第k个节点.md",
     "Pasted image 20241129222845.png",
     "Pasted image 20241129135641.png"
   ]

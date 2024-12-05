@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "剑指offer/二叉树/序列化二叉树.md",
+                "file": "Hot100/链表/23 合并K个升序链表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "序列化二叉树"
+              "title": "23 合并K个升序链表"
             }
           }
         ]
@@ -171,10 +171,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "15599eb884158ccc",
+  "active": "a373bddec795b105",
   "lastOpenFiles": [
-    "c++ 库/总结.md",
+    "Hot100/链表/19 删除链表的倒数第 N 个结点.md",
+    "Hot100/哈希表/49 字母异位词分组.md",
+    "哈希表/总结.md",
+    "哈希表",
     "剑指offer/二叉树/序列化二叉树.md",
+    "Hot100/哈希表",
+    "c++ 库/总结.md",
     "c++ 库",
     "剑指offer/二叉树/从上往下打印二叉树.md",
     "剑指offer/二叉树/未命名",
@@ -200,15 +205,10 @@
     "搜索/常考.md",
     "Hot100/链表/148 排序链表.md",
     "Hot100/链表/138 随机链表的复制.md",
-    "Hot100/链表/23 合并K个升序链表.md",
     "优先队列",
-    "Hot100/链表/25 K个一组翻转链表.md",
-    "README.md",
     "pom.xml",
     "kv-thrift/src/main/java/com/kv/thrift/KVService.thrift",
     "kv-thrift/src/main/java/com/kv/thrift/kv.thrift",
-    "kv-thrift/src/main/java/com/kv/thrift",
-    "kv-thrift/src/main/java/com/kv",
     "Pasted image 20241129222845.png",
     "Pasted image 20241129135641.png"
   ]

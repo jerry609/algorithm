@@ -172,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,7 +185,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "15599eb884158ccc",
+  "active": "81e7030a9d3380dd",
   "lastOpenFiles": [
     "Hot100/堆/数组中的第k个最大元素.md",
     "Hot100/技巧",

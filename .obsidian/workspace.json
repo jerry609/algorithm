@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hot100/动态规划/一维动态/单词拆分.md",
+                "file": "Hot100/动态规划/一维动态/279 完全平方数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "单词拆分"
+              "title": "279 完全平方数"
             }
           },
           {
@@ -185,10 +185,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "15599eb884158ccc",
+  "active": "a373bddec795b105",
   "lastOpenFiles": [
-    "Hot100/动态规划/一维动态/零钱兑换.md",
     "Hot100/动态规划/一维动态/单词拆分.md",
+    "Hot100/动态规划/一维动态/零钱兑换.md",
     "Hot100/动态规划/一维动态/198 打家劫舍.md",
     "Hot100/动态规划/背包问题/零钱兑换问题",
     "Hot100/动态规划/背包问题",

@@ -3,6 +3,8 @@
 notion链接：里面有100多道笔记[Notion刷题模板]([https://www.notion.so/LeetCode-287600f012b54129b6f09d506ea31b6c?pvs=4)
 ![image.png](https://obsidian-1311563466.cos.ap-guangzhou.myqcloud.com/baguwen/20241201161756.png)
 
+## 题单
+灵神题单https://leetcode.cn/circle/discuss/RvFUtj/
 ## 总结
 
 1. 动态规划是动态规划相关问题总结

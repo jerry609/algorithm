@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hot100/动态规划/多维动态/5 最长回文子串.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 最长回文子串"
+              "title": "README"
             }
           },
           {
@@ -202,8 +202,8 @@
   },
   "active": "70f6a10ec8ad6d2b",
   "lastOpenFiles": [
-    "[.md",
     "Hot100/动态规划/多维动态/5 最长回文子串.md",
+    "[.md",
     "Hot100/动态规划/多维动态/编辑距离.md",
     "Hot100/动态规划/多维动态/64 最小路径和.md",
     "Hot100/动态规划/多维动态/最长公共自序列.md",

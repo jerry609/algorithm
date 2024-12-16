@@ -57,7 +57,7 @@ trie.search("app");     // 返回 True
 
 ```c++
 struct Node{
-	Node* son{26}
+	Node* son[26]{};
 	bool end = false;
 }
 class Trie {
